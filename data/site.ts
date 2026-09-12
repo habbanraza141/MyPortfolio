@@ -3,7 +3,7 @@ export const site = {
   shortName: "Muhammad Habban",
   role: "Team Lead, React Native",
   location: "Karachi, Pakistan",
-  email: "ahsanghauri2002@gmail.com",
+  email: "muhammadhabbanraza@gmail.com",
   summary:
     "React Native team lead shipping production Android and iOS apps. I take features from architecture to App Store and Play Store, keep releases stable, and mentor engineers along the way.",
 };
